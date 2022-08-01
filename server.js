@@ -1,3 +1,6 @@
+require('dotenv').config();
+
+
 //load the modules
 const express = require(`express`) // html עיבוד דינאמי של דפי 
 const cors = require(`cors`) // בקשות מותאמות אישית
