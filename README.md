@@ -1,4 +1,4 @@
-# Server Website forum - use NodeJs
+# Server Website forum - use NodeJs , MySql
 
 this server was to web site forum , use nodeJs and MySql 
 
