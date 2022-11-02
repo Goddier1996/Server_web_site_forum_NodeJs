@@ -1,6 +1,6 @@
-# Server Website forum - use NodeJs , MySql 
+# Server Website forum - use NodeJs , Microsoft SQL Server 
  
-this server was to web site forum , use nodeJs and MySql 
+this server was to web site forum , use nodeJs and Microsoft SQL Server 
 
 client Website - https://github.com/Goddier1996/Client_Forum_Website
 
